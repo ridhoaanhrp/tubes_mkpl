@@ -21,7 +21,7 @@ public class UserModel {
     private int saldo;
     
     // Constructor
-    public UserModel
+    public UserModel;;
     (
         String nim, 
         String Name, 
