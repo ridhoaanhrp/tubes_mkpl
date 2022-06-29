@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/Bagasarfiansyah007/TUGAS-MKPL</url>
+      <url>https://maven.pkg.github.com/ridhoaanhrp/tubes_mkpl</url>
     </repository>
   </distributionManagement>
   
