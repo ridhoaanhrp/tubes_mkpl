@@ -11,7 +11,8 @@ package Model;
  */
 public class UserModel {
 
-    private String nim;
+    private tring nim;
+    
     private String Name;
     private String faculty;
     private String telphoneNumber;
